@@ -1,9 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Anand</h1>
-  <p>🚀 [Your Bio/Tagline]</p>
+  <p>🚀 [Aspiring an App Developer]</p>
 </div>
 
-![Header](http://postimg.cc/ZCYn3nfF)
 
 ### 🧰 Toolbox
 
