@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Anand</h1>
+  <h1>👋 Hi, I'm Anand Charukesan</h1>
   <p>🚀 Aspiring an App Developer</p>
 </div>
 
