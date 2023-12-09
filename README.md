@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some projects I'm proud of:
 
-- [Nearby Parking Finder]: 🅿️ Introducing ParkioSpot: Your Ultimate Parking Companion! 🚗📱
+- Nearby Parking Finder: 🅿️ Introducing ParkioSpot: Your Ultimate Parking Companion! 🚗📱
 
 Say goodbye to the parking hassle with ParkioSpot, the smart parking app designed to make your life easier. 🅿️
 
