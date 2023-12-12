@@ -34,7 +34,7 @@ Say goodbye to the parking hassle with ParkioSpot, the smart parking app designe
 
 🌟 Find parking spots in real-time, reserve your space, and pay seamlessly, all in one app. Our mission is to simplify your parking experience, so you can focus on what matters most.
 
-🚀 With ParkioSpot, you can:
+🚀 With ParkioSpot, you can :
 
 ✅ Locate nearby parking options.
 ✅ Reserve your spot in advance.
