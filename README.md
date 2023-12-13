@@ -42,7 +42,7 @@ Say goodbye to the parking hassle with ParkioSpot, the smart parking app designe
 ✅ Get real-time availability updates.
 ✅ Enjoy a stress-free parking experience.
 
-- [Doctor Availability in Hospital: Description
+- Doctor Availability in Hospital: Description
 
 ### 📫 How to reach me
 
