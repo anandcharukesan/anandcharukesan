@@ -42,9 +42,6 @@ Say goodbye to the parking hassle with ParkioSpot, the smart parking app designe
 ✅ Get real-time availability updates.
 ✅ Enjoy a stress-free parking experience.
 
-- Doctor Availability in Hospital: 
-### 📫 How to reach me
-
 You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or [![Email][4.2]][4].
 
 <div align="center">
