@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I am Anand Charukesan K </h1>
-  <p>🚀 Aspiring an App Developer</p>
+  <p>🚀 Aspiring An App Developer</p>
 </div>
 
 
