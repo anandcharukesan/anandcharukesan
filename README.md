@@ -32,7 +32,7 @@ Here are some projects I'm proud of :
 
 Say goodbye to the parking hassle with ParkioSpot, the smart parking app designed to make your life easier. 🅿️
 
-🌟 Find parking spots in real-time, reserve your space, and pay seamlessly, all in one app. Our mission is to simplify your parking experience, so you can focus on what matters most.
+🌟 Find parking spots in real-time, reserve your space, and pay seamlessly, all in one app. Our mission is to simplify your parking experience, so you can focus on what matters most. 
 
 🚀 With ParkioSpot, you can :
 
