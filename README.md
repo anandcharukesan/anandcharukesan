@@ -1,48 +1,42 @@
 <div align="center">
-  <h1>🚗📱 ParkioSpot: Your Ultimate Parking Companion!</h1>
-  <p>🅿️ Say goodbye to parking hassles with ParkioSpot, the smart parking app designed to simplify your life.</p>
+  <h1>👋 Hi, I'm Anand Charukesan K</h1>
+  <p>🚀 Aspiring An App Developer</p>
 </div>
 
-### 🌟 About ParkioSpot
+### About Me
 
-ParkioSpot is your go-to solution for hassle-free parking. Our mission is to streamline the parking experience, providing real-time solutions and convenient features so that you can focus on what matters most.
+- **Software Developer:** Proficient in Python, Java, Flutter, and C programming.
+- **Passionate Problem Solver:** Enthusiastic about using technology to solve complex challenges.
+- **Hands-On Experience:** Developed software applications, including mobile apps and automation tools.
+- **Adaptable Learner:** Quick to grasp new technologies and programming languages.
+- **Team Player:** Effective collaborator with strong communication skills.
+- **Continuous Growth:** Committed to staying updated with industry trends and learning new languages.
+- **Open to Collaboration:** Interested in connecting with like-minded professionals for potential projects.
 
-### 🚀 Features
+### Known Languages
 
-ParkioSpot offers a range of functionalities to enhance your parking convenience:
+- Python
+- C
+- Java
+- Flutter
 
-- ✅ Real-time parking spot locator.
-- ✅ Advanced reservation system for securing spots in advance.
-- ✅ Seamless payment options for parking fees.
-- ✅ Live updates on parking space availability.
-- ✅ Stress-free parking experience.
-
-### 📂 Projects by Anand Charukesan K
+### 📂 My Projects
 
 #### 1. Nearby Parking Finder - ParkioSpot
 
-ParkioSpot is one of my proud projects aimed at simplifying the parking process for users. Through innovative features and user-centric design, this app redefines the parking experience.
+ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
 
 #### 2. Photo Sharing Website
 
-The photo sharing website project is designed to provide users with a platform to share and explore captivating images. It offers user-friendly functionalities for uploading, browsing, and interacting with photos.
+The photo sharing website project provides users a platform to share and explore captivating images. It includes functionalities for uploading, browsing, and interacting with photos.
 
 #### 3. Doctor Availability Project
 
-This project aims to develop a digital system that automates appointment scheduling in hospitals. Leveraging technologies like RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
+This project aims to automate appointment scheduling in hospitals. Leveraging RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
 
 [Include other projects in a similar format.]
 
-### 🌱 Currently Learning
-
-- Django Framework
-- Postgres
-
-### 💼 Education
-
-- **SSM Institute of Engineering and Technology, Dindigul**
-
-### 📫 Connect With Me
+### 🌐 Social Media
 
 You can find me on [Twitter](https://twitter.com/CCharukes), [LinkedIn](https://www.linkedin.com/in/anand-charukesan/), or via [Email](mailto:anandcharukesan004@gmail.com).
 
