@@ -17,18 +17,21 @@ ParkioSpot offers a range of functionalities to enhance your parking convenience
 - ✅ Live updates on parking space availability.
 - ✅ Stress-free parking experience.
 
-### 🌍 How It Works
-
-1. **Locate Parking:** Easily find nearby parking options through our intuitive app interface.
-2. **Reserve Your Spot:** Reserve your parking space in advance, ensuring your spot is secured when you arrive.
-3. **Pay with Ease:** Enjoy seamless payment methods for your parking fees directly through the app.
-4. **Stay Updated:** Get real-time updates on parking space availability, ensuring a smooth experience.
-
 ### 📂 Projects by Anand Charukesan K
 
-#### Nearby Parking Finder - ParkioSpot
+#### 1. Nearby Parking Finder - ParkioSpot
 
 ParkioSpot is one of my proud projects aimed at simplifying the parking process for users. Through innovative features and user-centric design, this app redefines the parking experience.
+
+#### 2. Photo Sharing Website
+
+The photo sharing website project is designed to provide users with a platform to share and explore captivating images. It offers user-friendly functionalities for uploading, browsing, and interacting with photos.
+
+#### 3. Doctor Availability Project
+
+This project aims to develop a digital system that automates appointment scheduling in hospitals. Leveraging technologies like RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
+
+[Include other projects in a similar format.]
 
 ### 🌱 Currently Learning
 
