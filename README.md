@@ -23,7 +23,7 @@
 ### 📂 My Projects
 
 #### 1. Nearby Parking Finder - ParkioSpot
-[GitHub Repository](https://github.com/anandcharukesan/ParkioSpot)
+[GitHub Repository](https://github.com/dhiyanesh-cyber/car-parking.git)
 
 ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
 
