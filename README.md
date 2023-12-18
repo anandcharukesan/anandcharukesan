@@ -28,7 +28,7 @@
 ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
 
 #### 2. Photo Sharing Website
-[GitHub Repository](https://github.com/dhiyanesh-cyber/car-parking.git)
+[GitHub Repository](https://github.com/anandcharukesan/photodown.git)
 
 The photo sharing website project provides users a platform to share and explore captivating images. It includes functionalities for uploading, browsing, and interacting with photos.
 
