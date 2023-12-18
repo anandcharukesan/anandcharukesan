@@ -23,17 +23,19 @@
 ### 📂 My Projects
 
 #### 1. Nearby Parking Finder - ParkioSpot
+[GitHub Repository](https://github.com/anandcharukesan/ParkioSpot)
 
 ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
 
 #### 2. Photo Sharing Website
+[GitHub Repository](https://github.com/anandcharukesan/PhotoSharingWebsite)
 
 The photo sharing website project provides users a platform to share and explore captivating images. It includes functionalities for uploading, browsing, and interacting with photos.
 
 #### 3. Doctor Availability Project
+[GitHub Repository](https://github.com/anandcharukesan/DoctorAvailabilityProject)
 
 This project aims to automate appointment scheduling in hospitals. Leveraging RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
-
 
 ### 🌐 Social Media
 
@@ -41,7 +43,6 @@ You can find me on
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/CCharukes)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anand-charukesan/)
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:anandcharukesan004@gmail.com)
-
 
 <div align="center">
   <p>Thanks for visiting! 😊</p>
