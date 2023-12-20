@@ -38,6 +38,11 @@ The photo sharing website project provides users a platform to share and explore
 
 This project aims to automate appointment scheduling in hospitals. Leveraging RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
 
+#### 3. Basic Shopping Website
+[GitHub Repository](https://github.com/anandcharukesan/shopping.git)
+
+Crafted a user-friendly shopping website employing customizable templates, offering a seamless browsing experience for customers.
+
 ### 🌐 Social Media
 
 You can find me on 
