@@ -47,7 +47,7 @@ Crafted a user-friendly shopping website employing customizable templates, offer
 ### 🌐 Social Media
 
 You can find me on 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/CCharukes)
+[![Twitter](https://icons8.com/icon/6Fsj3rv2DCmG/twitterx)](https://twitter.com/CCharukes)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anand-charukesan/)
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:anandcharukesan004@gmail.com)
 
