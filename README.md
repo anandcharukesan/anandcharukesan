@@ -13,6 +13,15 @@
 - **Continuous Growth:** Committed to staying updated with industry trends and learning new languages.
 - **Open to Collaboration:** Interested in connecting with like-minded professionals for potential projects.
 
+### Contributes
+
+<div align="center">
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandcharukesan&theme=algolia" alt="anandcharukesan"  /></p>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anandcharukesan&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</div>
+
 ### Known Languages
 
 - Python
