@@ -50,6 +50,7 @@ This project aims to automate appointment scheduling in hospitals. Leveraging RF
 
 #### 3. Basic Shopping Website
 [GitHub Repository](https://github.com/anandcharukesan/shopping.git)
+    [Live Link](http://shopifyy.rf.gd/)
 
 Crafted a user-friendly shopping website employing customizable templates, offering a seamless browsing experience for customers.
 
