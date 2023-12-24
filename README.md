@@ -54,7 +54,7 @@ This project aims to automate appointment scheduling in hospitals. Leveraging RF
 
 Crafted a user-friendly shopping website employing customizable templates, offering a seamless browsing experience for customers.
 
-### 5. Pygame
+#### 5. Pygame
 [GitHub Repository](https://github.com/anandcharukesan/Game.git)
 
 Prepare your environment with Python 3 and Pygame, along with essential image assets, to smoothly execute the 'Jumping Ball' game script for an immersive gaming experience.
