@@ -28,7 +28,7 @@
 - C
 - Java
 - Flutter
-- Html,Css & Js
+- Html,CSS & JS
 
 ### 📂 My Projects
 
