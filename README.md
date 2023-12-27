@@ -60,7 +60,7 @@ Crafted a user-friendly shopping website employing customizable templates, offer
 Prepare your environment with Python 3 and Pygame, along with essential image assets, to smoothly execute the 'Jumping Ball' game script for an immersive gaming experience.
 
 #### 5. Document Scanner
-[GitHub Repository](https://github.com/anandcharukesan/Game.git)
+[GitHub Repository](https://github.com/anandcharukesan/Document-Scanner.git)
 
 Capture, Organize, and Share: Introducing our document scanner app, developed by me and Anand Charukesan K Powered by OpenCV and Tkinter, this app lets you digitize your documents with ease.
 
