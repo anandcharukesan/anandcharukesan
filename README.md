@@ -32,6 +32,11 @@
 
 ### 📂 My Projects
 
+#### 6. Portfolio
+[Live](https://anandcharukesan.github.io/Portfolio/)
+
+Welcome to my portfolio website! I'm Anand. Explore my projects, skills, and achievements in web development. 
+
 #### 1. Nearby Parking Finder - ParkioSpot
 [GitHub Repository](https://github.com/dhiyanesh-cyber/car-parking.git)
 
@@ -64,10 +69,7 @@ Prepare your environment with Python 3 and Pygame, along with essential image as
 
 Capture, Organize, and Share: Introducing our document scanner app, developed by me and Anand Charukesan K Powered by OpenCV and Tkinter, this app lets you digitize your documents with ease.
 
-#### 6. Portfolio
-[Live](https://anandcharukesan.github.io/Portfolio/)
 
-Welcome to my portfolio website! I'm Anand. Explore my projects, skills, and achievements in web development. 
 
 ### 🌐 Social Media
 
