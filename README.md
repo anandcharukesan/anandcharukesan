@@ -32,44 +32,42 @@
 
 ### 📂 My Projects
 
-#### 6. Portfolio
+#### 1. Portfolio
 [Live](https://anandcharukesan.github.io/Portfolio/)
 
 Welcome to my portfolio website! I'm Anand. Explore my projects, skills, and achievements in web development. 
 
-#### 1. Nearby Parking Finder - ParkioSpot
+#### 2. Nearby Parking Finder - ParkioSpot
 [GitHub Repository](https://github.com/dhiyanesh-cyber/car-parking.git)
 
 ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
 
-#### 2. Photo Sharing Website
+#### 3. Photo Sharing Website
 [GitHub Repository](https://github.com/anandcharukesan/photodown.git)
     [Live Link](http://photodown.rf.gd/)
   
 The photo sharing website project provides users a platform to share and explore captivating images. It includes functionalities for uploading, browsing, and interacting with photos.
 
-#### 3. Doctor Availability Project
+#### 4. Doctor Availability Project
 [GitHub Repository](https://github.com/anandcharukesan/DocSpot.git)
 
 This project aims to automate appointment scheduling in hospitals. Leveraging RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
 
-#### 4. Basic Shopping Website
+#### 5. Basic Shopping Website
 [GitHub Repository](https://github.com/anandcharukesan/shopping.git)
     [Live Link](http://shopifyy.rf.gd/)
 
 Crafted a user-friendly shopping website employing customizable templates, offering a seamless browsing experience for customers.
 
-#### 5. Pygame
+#### 6. Pygame
 [GitHub Repository](https://github.com/anandcharukesan/Game.git)
 
 Prepare your environment with Python 3 and Pygame, along with essential image assets, to smoothly execute the 'Jumping Ball' game script for an immersive gaming experience.
 
-#### 5. Document Scanner
+#### 7. Document Scanner
 [GitHub Repository](https://github.com/anandcharukesan/Document-Scanner.git)
 
 Capture, Organize, and Share: Introducing our document scanner app, developed by me and Anand Charukesan K Powered by OpenCV and Tkinter, this app lets you digitize your documents with ease.
-
-
 
 ### 🌐 Social Media
 
