@@ -93,6 +93,33 @@ Explore my skills, achievements, and a showcase of my projects through this resp
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:anandcharukesan004@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandcharukesan&label=Profile%20views&color=0e75b6&style=flat" alt="anandcharukesan" /> </p>
 
+####
+<br clear="both">
+<p align="center">𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕚𝕖𝕤</p>
+ <p align="center">
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://i.gifer.com/origin/b1/b18cdf6804851604aeec2d0e7883f9d2_w200.gif" alt="cricket" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Video%20Game.webp" alt="Video" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Musical%20Notes.png?raw=true" alt="Musical" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Tech" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/globe.gif?raw=true" alt="Globe" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/book.gif?raw=true" alt="Book" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/music.gif?raw=true" alt="Music" width="40" height="40"" />
+  </a>
+  
+ </p>
 
 <div align="center">
   <p>Thanks for visiting! 😊</p>
