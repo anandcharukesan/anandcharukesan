@@ -1,17 +1,27 @@
 <div align="center">
-  <h1>👋 Hi, I'm Anand Charukesan K</h1>
-  <p>🚀 Aspiring An App Developer</p>
+<h1 align="center"><b>Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">, I'm Anand Charukesan</b> </h1>
+  <p>🚀FullStack Web Developer and Flutter Enthusiast</p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;%20DSA%20|%20JAVA%20|%20Flutter%20Developer;;Always%20Learning%20New%20Things&center=true&width=550&height=50"></a>
+</p>
+
+<p align="center">
+<img align="centre" alt="Coding" width="450" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
+</p>
+
 
 ### About Me
 
-- **Software Developer:** Proficient in Python, Java, Flutter, and C programming.
-- **Passionate Problem Solver:** Enthusiastic about using technology to solve complex challenges.
-- **Hands-On Experience:** Developed software applications, including mobile apps and automation tools.
-- **Adaptable Learner:** Quick to grasp new technologies and programming languages.
-- **Team Player:** Effective collaborator with strong communication skills.
-- **Continuous Growth:** Committed to staying updated with industry trends and learning new languages.
-- **Open to Collaboration:** Interested in connecting with like-minded professionals for potential projects.
+- **Full Stack Web Developer:** Proficient in Java, React.js, and MySQL, delivering seamless and responsive web applications.  
+- **Flutter Enthusiast:** Exploring mobile app development to create intuitive and efficient solutions.  
+- **Innovative Thinker:** Passionate about leveraging technology to design creative solutions for real-world challenges.  
+- **Practical Experience:** Developed web and mobile applications, integrated APIs like Google Sheets, and optimized project workflows.  
+- **Versatile Learner:** Adapts quickly to new technologies, tools, and frameworks to stay ahead in the tech industry.  
+- **Collaborative Professional:** Excels in team environments, fostering effective communication and cooperation.  
+- **Lifelong Learner:** Dedicated to continuous improvement, exploring the latest industry trends, and refining technical expertise.  
+- **Eager Contributor:** Open to collaboration on impactful projects with like-minded professionals.  
 
 ### Contributes
 
@@ -22,58 +32,67 @@
   <br></br>
 </div>
 
-### Known Languages
 
-- Python
-- C
-- Java
-- Flutter
-- Html,CSS & JS
+### Technical Skills  
+- **Programming Languages:** Java, JavaScript, Python (Basics).  
+- **Frontend Development:** HTML, CSS, React.js, Tailwind CSS.  
+- **Backend Development:** Node.js, MySQL, Prisma ORM.  
+- **Mobile Development:** Flutter (Enthusiast).  
+- **API Integration:** Google Sheets API, RESTful API development.  
+- **Version Control:** Git, GitHub.  
+- **Tools & Frameworks:** Spring Boot, Next.js, Android Studio.  
+- **Project Management:** Agile methodologies, Task prioritization, Meeting deadlines.  
 
-### 📂 My Projects
+### 📂 My Projects  
 
-#### 1. Portfolio
-[Live](https://anandcharukesan.github.io/Portfolio/)
+#### 1. **JACKPOT ~ An E-commerce Website**  
+[Live](https://jackpotmenswear.vercel.app) | [GitHub Repository](https://github.com/anandcharukesan/car-parking.git)  
 
-Welcome to my portfolio website! I'm Anand. Explore my projects, skills, and achievements in web development. 
+Developed a fully functional e-commerce platform offering features like product catalog management, secure user authentication, cart management, and a seamless checkout process.  
+**Tech Stack:** React.js, Node.js, Firebase, GitHub  
 
-#### 2. Nearby Parking Finder - ParkioSpot
-[GitHub Repository](https://github.com/dhiyanesh-cyber/car-parking.git)
+---  
 
-ParkioSpot is a smart parking app designed to simplify the parking experience. It offers real-time parking spot locator, advanced reservation system, seamless payment options, and live updates on parking space availability.
+#### 2. **PARKME ~ A Parking Finder App**  
+[GitHub Repository](https://github.com/anandcharukesan/car-parking.git)  
 
-#### 3. Photo Sharing Website
-[GitHub Repository](https://github.com/anandcharukesan/photodown.git)
-    [Live Link](http://photodown.rf.gd/)
-  
-The photo sharing website project provides users a platform to share and explore captivating images. It includes functionalities for uploading, browsing, and interacting with photos.
+A collaborative app that revolutionizes urban parking by offering real-time locator, pre-booking, and contactless payment options.  
+**Tech Stack:** Flutter, Firebase, GitHub, Maps API  
 
-#### 4. Doctor Availability Project
-[GitHub Repository](https://github.com/anandcharukesan/DocSpot.git)
+---  
 
-This project aims to automate appointment scheduling in hospitals. Leveraging RFID, face detection, and AI, it ensures efficient doctor availability and reduces patient wait times.
+#### 3. **BLOGZSPOT ~ A Blog Website**  
+[Live](http://blogzpot.vercel.app/) | [GitHub Repository](https://github.com/anandcharukesan/blogzspot.git)  
 
-#### 5. Basic Shopping Website
-[GitHub Repository](https://github.com/anandcharukesan/shopping.git)
-    [Live Link](http://shopifyy.rf.gd/)
+A full-stack blogging platform allowing users to write, publish, and follow blogs. Optimized with server-side rendering for fast, responsive user experience.  
+**Tech Stack:** Next.js, MySQL, Prisma ORM, GitHub  
 
-Crafted a user-friendly shopping website employing customizable templates, offering a seamless browsing experience for customers.
+---  
 
-#### 6. Pygame
-[GitHub Repository](https://github.com/anandcharukesan/Game.git)
+#### 4. **FILMFOLIO ~ A Movies Exploring App**  
+[Live](https://flimfolio.vercel.app/) | [GitHub Repository](https://github.com/anandcharukesan/flimfolio.git)  
 
-Prepare your environment with Python 3 and Pygame, along with essential image assets, to smoothly execute the 'Jumping Ball' game script for an immersive gaming experience.
+Browse and explore movie posters, descriptions, ratings, and cast details through a visually appealing platform.  
+**Tech Stack:** React.js, MovieDB API, GitHub  
 
-#### 7. Document Scanner
-[GitHub Repository](https://github.com/anandcharukesan/Document-Scanner.git)
+---  
 
-Capture, Organize, and Share : Introducing our document scanner app, developed by me and Anand Charukesan K Powered by OpenCV and Tkinter, this app lets you digitize your documents with ease.
+#### 5. **Portfolio Website**  
+[Live](www.anandcharukesan.online)  
+
+Explore my skills, achievements, and a showcase of my projects through this responsive and interactive portfolio website.  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---  
+
 
 ### 🌐 Social Media
 
 [![Twitter](https://i.postimg.cc/d1tVg1cs/twitter-x-logo-42554.png)](https://twitter.com/CCharukes)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anand-charukesan/)
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:anandcharukesan004@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandcharukesan&label=Profile%20views&color=0e75b6&style=flat" alt="anandcharukesan" /> </p>
+
 
 <div align="center">
   <p>Thanks for visiting! 😊</p>
