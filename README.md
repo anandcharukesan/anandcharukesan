@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;%20DSA%20|%20JAVA%20|%20Flutter%20Developer;;Always%20Learning%20New%20Things&center=true&width=550&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;%20DSA%20|%20JAVA%20|%20Flutter%20Developer;;Always%20Learning%20New%20Things&center=true&width=550&height=50"></a>
 </p>
 
 <p align="center">
